@@ -1,0 +1,6 @@
+{
+  "name": "Cell of Duty: Tactical Bio-Ops",
+  "description": "An intense 3D tactical action shooter combining elite military warfare and cellular combat with custom loadouts, killstreaks, zombie survival, and visceral arcade gunplay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
